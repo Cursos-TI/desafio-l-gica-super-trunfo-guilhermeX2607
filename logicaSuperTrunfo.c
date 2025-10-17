@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 
 // Desafio Super Trunfo - Países (Nível Intermediário)
 // Autor: David Newton (baseado em código original)
